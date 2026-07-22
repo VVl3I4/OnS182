@@ -1,2 +1,2 @@
 # OnS182
-dataset for WF on Onion Service
+A Real-World Website Fingerprinting Dataset for Tor Onion Services.
